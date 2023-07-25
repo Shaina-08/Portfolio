@@ -1,0 +1,9 @@
+// GlobeMap.scss
+@import 'react-globe.gl/dist'; // Import the base styles from react-globe.gl
+
+.app__globe-container {
+  // Add styles for the globe container
+  height: 500px;
+  width: 100%;
+  perspective: 800px; // Add perspective for 3D effect
+}
