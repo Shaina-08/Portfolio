@@ -180,13 +180,30 @@
   @media screen and (max-width:1200px) {
     .section {
       max-width: 300px;
-
+      // min-width: 100px;
       height: 60vh;
       border: none;
     }
+  }
+    @media screen and (max-width:700px){
+      .section {
+        max-width: 300px;
+        // min-width: 100px;
+        height: 30vh;
+        border: none;
+    }
   
     .project-image {
-      height: 250px;
+      height: 150px;
+      // width: 200px;
+    }
+
+    .project-description{
+      height: 80px;
+      font-size: 10px;
+    }
+    .project-title{
+      font-size: 20px;
     }
   }  
 
