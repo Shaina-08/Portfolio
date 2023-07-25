@@ -42,7 +42,7 @@ const Work = () => {
         <div className="section">
 
         <div >
-          <img  className="project-image" src="/Screenshot from 2023-07-25 18-27-44.png"  alt="" />
+          <img  className="project-image" src="/Screenshot from 2023-07-25 22-31-13.png"  alt="" />
           </div>
         <div className="project-content">
           <h3 className="project-title">Portfolio Website</h3>
@@ -52,8 +52,8 @@ const Work = () => {
           </p>
         
           <div className="project-links">
-            <a href="https://github.com/user/project" target="_blank" rel="noopener noreferrer">Source Code</a>
-            <a href="https://project.example.com" target="_blank" rel="noopener noreferrer">View</a>
+            <a href="https://github.com/Shaina-08/Portfolio" target="_blank" rel="noopener noreferrer">Source Code</a>
+            <a href="shaina-portfolio.vercel.app/" target="_blank" rel="noopener noreferrer">View</a>
           </div>
 
         </div>
