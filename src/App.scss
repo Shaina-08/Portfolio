@@ -1,6 +1,10 @@
 .app {
     background-color: var(--primary-color);
     font-family: var(--font-base);
+
+  }
+  ::-webkit-scrollbar{
+    display: none;
   }
   
   .app__whitebg {
